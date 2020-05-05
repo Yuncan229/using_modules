@@ -1,3 +1,6 @@
+"""
+Create a QRCode
+"""
 import MyQR.myqr
 
 
